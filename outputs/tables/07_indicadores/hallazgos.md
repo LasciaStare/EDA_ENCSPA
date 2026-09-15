@@ -1,0 +1,12 @@
+- Consumo **Vida**: 83.97% ponderado (85.30% muestral; n válido=49,756).
+- Consumo **12 meses**: 54.60% ponderado (53.04% muestral; n válido=49,704).
+- Consumo **30 días**: 30.14% ponderado (29.25% muestral; n válido=49,690).
+- **Binge mensual o más**: 14.43% ponderado entre 26,363 casos clasificables; 4,144 positivos observados.
+- **Señales de dependencia (proxy)**: 4.51% ponderado entre 11,698 casos clasificables; 627 positivos observados.
+- **Lesiones por consumo**: 3.87% ponderado entre 26,363 casos clasificables; 990 positivos observados.
+- **Preocupación de otros**: 6.25% ponderado entre 26,363 casos clasificables; 1,799 positivos observados.
+- **Inicio temprano (≤14)**: 14.31% ponderado entre 42,441 casos clasificables; 5,331 positivos observados.
+- **Problema laboral (alcohol u otras)**: 36.64% ponderado entre 2,411 casos clasificables; 886 positivos observados.
+- Edad de inicio: media 18.12 años; mediana 18.0 años entre quienes consumieron alguna vez.
+- Las señales de dependencia se describen en la base F_14 = 2–5; los faltantes restantes impiden presentar esta proporción como prevalencia general de dependencia.
+- Las preguntas laborales R_02, R_04 y R_09 no distinguen alcohol de otras sustancias; el indicador combinado debe conservar esa limitación en su nombre e interpretación.

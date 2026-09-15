@@ -1,0 +1,43 @@
+variable,base,n_total,n_base,validos,nulos_en_base,no_valido_en_base,fuera_base,filtro_desconocido,respuestas_fuera_base
+f_01,Todas las personas seleccionadas,49756,49756,49756,0,0,0,0,0
+f_01_cual,F_01 = 1,49756,16940,16940,0,0,32816,0,0
+f_02,Todas las personas seleccionadas,49756,49756,49756,0,0,0,0,0
+f_02_cual,F_02 = 1,49756,21127,21127,0,0,28629,0,0
+f_03,Todas las personas seleccionadas,49756,49756,49756,0,0,0,0,0
+f_04,Consumo alguna vez: F_03 = 1,49756,42441,42441,0,0,7315,0,0
+f_05,Consumo alguna vez: F_03 = 1,49756,42441,42441,0,0,7315,0,0
+f_06,Consumo alguna vez: F_03 = 1,49756,42441,42389,0,52,7315,0,0
+f_07,Consumo 12 meses: F_06 = 1,49756,26363,26349,0,14,16026,7367,0
+f_08,Consumo 30 días: F_07 = 1,49756,14536,14501,0,35,11813,23407,0
+f_09,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_a,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_b,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_c,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_d,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_e,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_f,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_g,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_h,Consumo 30 días: F_07 = 1,49756,14536,14536,0,0,11813,23407,0
+f_10_i,Consumo 30 días: F_07 = 1,49756,14536,624,13912,0,11813,23407,0
+f_11,Consumo 12 meses: F_06 = 1,49756,26363,26235,0,128,16026,7367,0
+f_12,Consumo 12 meses: F_06 = 1,49756,26363,26363,0,0,16026,7367,0
+f_13,Consumo 12 meses: F_06 = 1,49756,26363,26363,0,0,16026,7367,0
+f_14,Consumo 12 meses: F_06 = 1,49756,26363,26363,0,0,16026,7367,0
+f_15,F_14 = 2–5; base observada de respuesta,49756,11698,11698,0,0,14665,23393,0
+f_16,F_14 = 2–5; base observada de respuesta,49756,11698,11698,0,0,14665,23393,0
+f_17,F_14 = 2–5; base observada de respuesta,49756,11698,11698,0,0,14665,23393,0
+f_18,F_14 = 2–5; base observada de respuesta,49756,11698,11698,0,0,14665,23393,0
+f_19,F_14 = 2–5; base observada de respuesta,49756,11698,11698,0,0,14665,23393,0
+f_20,Consumo 12 meses: F_06 = 1,49756,26363,26363,0,0,16026,7367,0
+f_21,Consumo 12 meses: F_06 = 1,49756,26363,26363,0,0,16026,7367,0
+f_20_cual,F_20 = 1,49756,990,990,0,0,25373,23393,0
+f_21_cual,F_21 = 1,49756,1799,1799,0,0,24564,23393,0
+d_11_b,Todas las personas seleccionadas,49756,49756,49756,0,0,0,0,0
+d_12_a,Todas las personas seleccionadas,49756,49756,49756,0,0,0,0,0
+d_12_a_a,D_12_A = 1,49756,32238,31698,0,540,17518,0,0
+r_08_b,Registros con respuesta en R_01; aproximación al módulo laboral,49756,28691,17341,0,11350,21065,0,0
+r_02,Accidente laboral: R_01 = 1,49756,1030,1021,0,9,27527,21199,0
+r_04,Ausencia laboral: R_03 > 0,49756,2654,2644,0,10,26037,21065,0
+r_09,Registros con respuesta en R_01; aproximación al módulo laboral,49756,28691,27672,0,1019,21065,0,0
+s_02_b,Ha estado o está embarazada: S_01 = 1,49756,21258,21258,0,0,7600,20898,0
+s_02_b_01,Alcohol durante embarazo: S_02_B = 1,49756,1136,1136,0,0,20122,28498,0
